@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/are8x2emma4d2rlh?svg=true)](https://ci.appveyor.com/project/sputNIK2009PT/aqa-hw-patterns-2)
